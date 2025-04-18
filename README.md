@@ -12,8 +12,7 @@ Designed to promote seamless city commuting, this site highlights an intuitive u
 
 - **HTML5** — semantic structure of the website  
 - **SCSS/CSS3** — styles, animations, and layout  
-- **BEM Methodology** — for structured and scalable CSS  
-- **JavaScript (vanilla)** — to handle basic interactivity  
+- **BEM Methodology** — for structured and scalable CSS   
 - **Font Awesome** — icons used in header and menu  
 - **Responsive design** — mobile-first and grid-based layout  
 - **Figma** — as design reference  
